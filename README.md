@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Tulasi 👋
 
-<!--
-**laxmithulasi4-tech/laxmithulasi4-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science Graduate  
+🤖 Interested in Artificial Intelligence & Ethical AI  
+📊 Passionate about fairness, transparency, and responsible AI systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+I am a Computer Science graduate with a strong interest in Artificial Intelligence and Ethical AI.
+I focus on evaluating AI systems for fairness, bias, and ethical risks rather than only model accuracy.
+
+I enjoy building research-oriented projects that combine data analysis, explainability, and real-world impact.
+
+---
+
+## 🚀 Featured Project
+### 🧠 AI Ethics Validator
+A Python-based system that audits fairness in AI-driven decision systems.
+The project detects bias across gender, attendance, and marks, computes an ethics score,
+and visualizes ethical risks using an interactive Streamlit dashboard.
+
+🔗 **Project Repository:**  
+https://github.com/laxmithulasi4-tech/AI-Ethics-Validator
+
+---
+
+## 🛠️ Skills
+- **Programming:** Python  
+- **Libraries:** Pandas, Matplotlib, Streamlit  
+- **Concepts:** Ethical AI, Bias Detection, Fairness Analysis, Explainable AI  
+- **Tools:** GitHub  
+
+---
+
+## 📈 Interests
+- Responsible AI  
+- AI Ethics & Governance  
+- Data Analysis & Visualization  
+- Research & Teaching  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/laxmithulasi4-tech
+
+---
+
+⭐ Thanks for visiting my profile!
